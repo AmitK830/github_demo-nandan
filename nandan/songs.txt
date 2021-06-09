@@ -1,3 +1,5 @@
 # New song need to add 
 songs =ABBA
 mama mia = ABBA 
+one of us = song
+Dancing_quuen =song
